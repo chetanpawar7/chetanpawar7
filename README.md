@@ -1,8 +1,7 @@
 # Hi there, I'm Chetan Pawar👋
 
 ## About Me
-
-I'm a passionate   developer with a keen interest in building innovative solutions that solve real-world problems. I specialize in web development, with expertise in both front-end and back-end technologies. I'm always eager to learn and explore new technologies to enhance my skills and contribute meaningfully to projects.
+I'm Passionate Software Developer. I specialize in web development, with expertise in both front-end and back-end technologies. I'm always eager to learn and explore new technologies to enhance my skills and contribute meaningfully to projects. 
 
 ## Skills
 
@@ -10,6 +9,7 @@ I'm a passionate   developer with a keen interest in building innovative solutio
 
 - JavaScript (ES6+)
 - Python
+- C++
 
 ### Front-End Development
 
@@ -42,6 +42,6 @@ I'm a passionate   developer with a keen interest in building innovative solutio
 ## Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/chetanpawar07/
-- Website/Blog: https://chetanpawar.vercel.app/
+- Website: https://chetanpawar.vercel.app/
 
 
