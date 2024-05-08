@@ -1,16 +1,47 @@
-### Hi there 👋
+# Hi there, I'm Chetan Pawar👋
 
-<!--
-**chetanpawar7/chetanpawar7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a passionate   developer with a keen interest in building innovative solutions that solve real-world problems. I specialize in web development, with expertise in both front-end and back-end technologies. I'm always eager to learn and explore new technologies to enhance my skills and contribute meaningfully to projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+### Programming Languages
+
+- JavaScript (ES6+)
+- Python
+
+### Front-End Development
+
+- React.js
+- Bootstrap
+- Tailwind CSS / css
+
+### Back-End Development
+
+- Flask
+- Django 
+- RESTful APIs
+
+### Database Management
+
+- MongoDB
+- MySQL
+- PostgreSQL
+- SQLite
+
+### Tools/Platforms
+
+- Git
+- Docker
+- AWS (Amazon Web Services)
+- Firebase
+- Supabase
+- Heroku
+
+## Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/chetanpawar07/
+- Website/Blog: https://chetanpawar.vercel.app/
+
+
