@@ -7,9 +7,8 @@ I'm Passionate Software Developer. I specialize in web development, with experti
 
 ### Programming Languages
 
-- JavaScript (ES6+)
 - Python
-- C++
+- JavaScript (ES6+)
 
 ### Front-End Development
 
@@ -19,7 +18,6 @@ I'm Passionate Software Developer. I specialize in web development, with experti
 
 ### Back-End Development
 
-- Flask
 - Django 
 - RESTful APIs
 
