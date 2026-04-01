@@ -1,7 +1,9 @@
 # Hi there, I'm Chetan Pawar👋
 
 ## About Me
-I'm Passionate Software Developer. I specialize in web development, with expertise in both front-end and back-end technologies. I'm always eager to learn and explore new technologies to enhance my skills and contribute meaningfully to projects. 
+As a Python Developer with 2+ years of experience in building scalable backend applications using Django. Strong 
+understanding of REST APIs, database design, and deployment using Docker and AWS. Proven ability to work in 
+production environments and collaborate effectively with cross-functional teams.  
 
 ## Skills
 
